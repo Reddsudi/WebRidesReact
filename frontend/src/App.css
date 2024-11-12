@@ -1,0 +1,163 @@
+.App {
+  text-align: center;
+}
+
+.Image{
+  margin-left: 120px;
+  position: absolute;
+  top: 40px;
+  left: 300px;
+  margin-top: 20px;
+  height: 500px;
+  width: 800px;
+}
+
+.Link{
+  position: relative;
+  top: 10px;
+  
+}
+
+.Modal{
+  background-color: white;
+}
+
+
+
+.App-link {
+  color: #0b1112;
+}
+
+.Form{
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  align-self: center;
+  height: 500px;
+  width: 500px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 10px;
+  background-color: black;
+  min-height: 4vh;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: rgb(11, 8, 1);
+}
+.SignupForm{
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  align-self: center;
+  height: 500px;
+  width: 500px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 10px;
+  background-color: black;
+  min-height: 4vh;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: rgb(11, 8, 1);
+}
+.Field{
+  color: black;
+  min-height: 4vh;
+  text-align: left;
+  border-radius: 20px;
+  border: 10px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+
+
+}
+
+.Danger{
+ color:#cf1f1f
+ 
+
+}
+
+.posted{  
+  font-size: small;
+  font-weight: bolder;   
+  height: 20px;
+  width:400px;
+  color:black;
+  font-style:initial 
+
+}
+
+.Border{
+  border-color:black;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+
+.Box{
+  align-self: center;
+  border-color: #cf1f1f;
+  border: 2px;
+  margin-left: 50px;
+  margin-right: 150px;
+  padding-bottom: 10px;
+  background-color: wheat;
+}
+
+.text{
+  font-size: medium;
+  padding-top: 20px;
+  height: 50px;
+  width: 100px;
+  color:rgb(208, 174, 52);
+ } 
+
+
+ .Post-Button{
+  background-color:rgb(208, 174, 52) ;
+  text-align: center;
+  position: relative;
+  top: 20px;
+  left: 840px;
+
+ }
+
+
+.Button{
+  background-color:rgb(208, 174, 52) ;
+  text-align: center;
+  position: relative;
+  padding: 5px;
+  top:10px;
+  color: black;
+}
+
+
+  
+
+::placeholder{
+  color:rgb(6, 14, 10);
+  font-style: Serif;
+  padding: 10px;
+  font-size: 15px;
+
+}
+
+
+
+
+
+
